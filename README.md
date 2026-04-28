@@ -1,2 +1,2 @@
 # Superstore
-Data Analysis for supersore using Excel
+Data Analysis for superstore using Excel
